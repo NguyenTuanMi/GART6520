@@ -1,6 +1,6 @@
 # GART6520
 Robot code for gart showcase
-<space><space>Instruction
+<><>Instruction
 Basic ideas:
 -Limelight sends data including distance, X angle, Y angle to smartdashboard
 -Shooter takes distance as input and shoot balls
